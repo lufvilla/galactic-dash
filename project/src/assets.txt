@@ -1,0 +1,1 @@
+assets1=swfs/assets.swf&sndBackground=sounds/Background.mp3&sndMove=sounds/move.mp3&sndPlasma=sounds/plasma.mp3
